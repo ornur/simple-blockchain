@@ -19,7 +19,7 @@ This script showcases a basic example of asymmetric encryption and decryption us
 2. Run the script:
 
     ```bash
-    python simple_encryption.py
+    python app.py
     ```
 
 3. The script will generate a key pair, encrypt the message "Hello world," and then decrypt it, printing the decrypted message.
@@ -28,7 +28,7 @@ This script showcases a basic example of asymmetric encryption and decryption us
 
 ## File 2: Improved Encryption, Decryption, and Signature Verification
 
-### `app2.py`
+### `app1.py`
 
 This script builds upon the first example by introducing message signing and verification.
 
@@ -43,7 +43,7 @@ This script builds upon the first example by introducing message signing and ver
 2. Run the script:
 
     ```bash
-    python improved_encryption.py
+    python app1.py
     ```
 
 3. The script will generate a key pair, encrypt the message "Hello world," sign the message, verify the signature, and then decrypt the message, printing the decrypted message and signature validity.
@@ -52,7 +52,7 @@ This script builds upon the first example by introducing message signing and ver
 
 ## File 3: Simple Blockchain Implementation
 
-### `app3.py`
+### `app2.py`
 
 This script implements a basic blockchain with transaction signing and verification.
 
@@ -67,7 +67,7 @@ This script implements a basic blockchain with transaction signing and verificat
 2. Run the script:
 
     ```bash
-    python blockchain_example.py
+    python app2.py
     ```
 
 3. The script will create a blockchain with a genesis block, generate a key pair for a participant, create a new block, add a transaction to the block, and print the hash of each block in the blockchain.
