@@ -118,27 +118,29 @@ Make sure you have Python installed on your machine.
 
    ```bash
    git clone https://github.com/ornur/app1.git
+   ```
 
 2. Navigate to the project directory:
 
    ```bash
    cd app1
+   ```
 
 3. Run the desired blockchain script:
 
     ```bash
     python blockchain-manually.py
-    
+    ```
 or
 
     ```bash
     python blockchain-automatically.py
-    
+    ```
 or
 
     ```bash
     python blockchain-final.py
-
+    ```
 
 ## Usage
 
