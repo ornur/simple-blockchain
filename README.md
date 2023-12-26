@@ -98,4 +98,52 @@ This script introduces a command-line interface for interacting with a simple bl
 
 ---
 
+# Blockchain Python Implementation
+
+This project contains a simple implementation of a blockchain in Python. It includes three versions of the implementation: manual, automatic, and a final version that combines both.
+
+## Features
+
+- **blockchain-manually.py**: Manual implementation of a blockchain with user input for transactions.
+- **blockchain-automatically.py**: Automated implementation with randomly generated transactions.
+- **blockchain-final.py**: Final version combining manual and automated transactions.
+
+## Prerequisites
+
+Make sure you have Python installed on your machine.
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ornur/app1.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd app1
+
+3. Run the desired blockchain script:
+
+    ```bash
+    python blockchain-manually.py
+    
+or
+
+    ```bash
+    python blockchain-automatically.py
+    
+or
+
+    ```bash
+    python blockchain-final.py
+
+
+## Usage
+
+Follow the on-screen instructions to add transactions, view the blockchain, and check the transaction history.
+
+## Contributing
+
 Feel free to explore and modify these scripts to understand the concepts of encryption, decryption, signature generation, verification, and basic blockchain functionality.
