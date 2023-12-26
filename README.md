@@ -131,12 +131,12 @@ Make sure you have Python installed on your machine.
     ```bash
     python blockchain-manually.py
     ```
-or
+    or
 
     ```bash
     python blockchain-automatically.py
     ```
-or
+    or
 
     ```bash
     python blockchain-final.py
